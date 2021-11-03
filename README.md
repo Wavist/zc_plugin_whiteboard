@@ -18,11 +18,11 @@ You're going to need:  **[Node JS](https://nodejs.org/en/)**
  3. cd into whiteboard-root and run "yarn start"
 
 ### Goals of Whiteboard Plugin
+   Online whiteboards can be used for the same purpose as a real whiteboard, but without the limitations of a real whiteboard.
 1. Visualize thoughts and concepts
 2. Write down ideas, explain and teach
 3. To plan and create in the group and many other things.
 
-## Online whiteboards can be used for the same purpose as a real whiteboard, but without the limitations of a real whiteboard.
 
 ### Technologies Used
 1. React
@@ -42,7 +42,7 @@ yarn build
 ```
 
 ### Credits and Acknowledgments
-**[Precious Akams](https://github.com/kamzzy)**
+[Precious Akams](https://github.com/kamzzy)
 
 ### Copyright and Liscensing
 [Liscense.MD](https://)

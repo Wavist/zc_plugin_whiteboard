@@ -1,11 +1,7 @@
+## Description
+Whiteboard is a visual collaboration plugin to bring distributed teams together in Zuri Chat. The plugin focuses on collaboraton to help teams innovate anywhere and anytime.
+
 ## Overview
-
-To contribute to the client part of the application, you need to have sufficient knowledge of how to use konva library. 
-Kindly find below some useful links to learn about the konva library:
-
-1. [Konva official website for React](https://konvajs.org/docs/react/Intro.html)
-2. [A tutorial on how to use konva library to build a whiteboard](https://betterprogramming.pub/how-to-make-a-whiteboard-app-with-react-konva-8766a532a39f?gi=8797bf38a4e2)
-
 Note, the following packages has already been installed
 
 1. [Konva library](https://konvajs.org/docs/)
@@ -14,14 +10,26 @@ Note, the following packages has already been installed
 
 You're going to need:  **[Node JS](https://nodejs.org/en/)**
 
-## Getting Started with Whiteboard
-
- 1. Clone this repository to your hard drive
- 2. cd frontend or backend
- 3. Install the dependencies: `yarn install`
+## Configuration Instructions
  
-### Startup project
+### Installation instructions
+ 1. Clone this repository to your hard drive
+ 2. cd into frontend, backend and whiteboard-root and perform "yarn install" in each folder to load all dependecies needed
+ 3. cd into whiteboard-root and run "yarn start"
 
+### Goals of Whiteboard Plugin
+1. Visualize thoughts and concepts
+2. Write down ideas, explain and teach
+3. To plan and create in the group and many other things.
+
+## Online whiteboards can be used for the same purpose as a real whiteboard, but without the limitations of a real whiteboard.
+
+### Technologies Used
+1. React
+2. Konva
+3. Node
+
+### Setting up the project
 ```bash
 # Access to the whiteboard folder
 cd frontend or backend
@@ -32,3 +40,9 @@ yarn dev
 # Packaged project
 yarn build
 ```
+
+### Credits and Acknowledgments
+**[Precious Akams](https://github.com/kamzzy)**
+
+### Copyright and Liscensing
+[Liscense.MD](https://)
